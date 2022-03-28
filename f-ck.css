@@ -1,0 +1,241 @@
+.sec1 {
+ background-image: url(./R\ \(9\).jpg);
+  color: rgb(255, 255, 255);
+  padding-bottom: 50px;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.img{
+    width: 50px;
+    border-radius: 50%
+}
+ul li a {
+  text-decoration: none;
+  color: white;
+}
+ul li {
+  list-style-type: none;
+}
+
+.homcontainer {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+}
+.homcontainer i {
+  margin-right: 12px;
+}
+nav {
+  width: 100%;
+}
+.navbar {
+  margin-top: 120px;
+}
+.navbar ul {
+  display: flex;
+  padding: 20px 20px;
+}
+.navbar ul li {
+  padding-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.f-ck {
+  margin-left: 350px;
+  font-size: 220px;
+}
+.date {
+  padding-left: 55%;
+}
+
+/* ========== section-two  ============ */
+.sec2{
+    background-color: rgba(196, 2, 2, 0.945);
+    padding-bottom: 70px;
+}
+.main__div {
+  
+  width: 100%;
+  display: flex;
+}
+.img-div {
+  width: 30%;
+  height: 30vh;
+  margin-left: 58px;
+  padding-bottom: 50px;
+  
+  
+}
+/* ========== footer  ============ */
+.footer {
+  background-color: black;
+  color: white;
+  width: 100%;
+  display: flex;
+  padding-top: 50px;
+  
+}
+.pera1{
+    display: flex;
+    padding: 50px;
+}
+.pera1 p{
+    margin: 40px;
+}
+.footer_childs {
+  width: 50%;
+  height: 20vh;
+  /* background-color: antiquewhite;Fref */
+  border: 1px solid black;
+}
+.h1{
+    padding: 50px 20px  ;
+  
+}
+.sec3{
+    color: white;
+    background-image: url(./bad.jpg);
+    background-size: cover;
+    padding-bottom: 80px;
+
+}
+.blog{
+    color: red;
+}
+.p1{
+    font-family: 'baloo 2',cursive;
+}
+.h2{
+    margin-left: 40px;
+}
+.div{
+    margin-left: 80px;
+    display: flex;
+}
+.sec4{
+    background-color: rgb(204, 193, 193);
+    padding-bottom: 40px;
+}
+.div3{
+    display: flex;  
+    margin-left: 100px;
+}
+.div3 div{
+    float: right;
+    margin-right: 12px;
+    margin-top: 90px;
+    padding-bottom: px;
+    margin-bottom: 40px;
+    background-color: white;
+   
+}
+.div3 p{
+    width: 90%;
+    padding-left: 10px;
+}
+.div3 h3{
+    width: 96%;
+    padding-left: 10px;
+}
+
+.lorem{
+    padding-top: 50px;
+    padding-left: 10px;
+    color: rgb(255, 8, 8);
+    position: relative;
+    top: 30px;
+}
+.div3 button{
+    background-color: red;
+    border: none;
+    padding: 10px 14px;
+    margin-left: 266px;
+   
+}
+.sec5{
+    background-image: url(./forest1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(253, 245, 245);
+    padding-bottom: 90px;
+}
+.b-lls{
+    font-size: 200px;
+    font-family: 'baloo 2',cursive;
+    margin-left: 250px;
+}
+
+.sec5 p{
+    margin-left: 40%;
+    width: 30%;
+    padding: 20px;
+}
+.sec5 h2{
+    margin-left: 41%;
+}
+.sec5 h2{
+    width: 30%;
+   
+}
+
+.endsd{
+  background-color: black;
+}
+.footer_childs i{
+  font-size: 40px;
+  padding-top: 20px;
+}
+.pg{
+  width: 70%;
+  margin-left: 40px;
+ 
+}
+.p{
+  margin-left: 40px;
+  padding-top: 30px;
+}
+.icons{
+  margin-top: 10px;
+}
+.last-div{
+  display: flex;
+}
+
+.peg{
+  width: 50%;
+}
+.clild{
+  width: 500px;
+}
+
+.lastdivpera{
+  padding-left:170px;
+}
+.footerpera{
+  width: 40%;
+}
+.footersection{
+  background-color: black ;
+  padding: 30px;
+  color: white;
+  display: flex;
+}
+.lastdivpera i{
+  font-size: 30px;
+  margin-top: 10px;
+}
+#inp{
+  position: relative;
+  bottom: 6px;
+   left: 40px;
+   padding: 7px;
+   padding-right: 70px;
+ margin-bottom: 10px;
+}
+.lastdivpera p{
+  position: relative;
+  left: 137px;
+}
